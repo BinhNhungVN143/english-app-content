@@ -10,4 +10,5 @@ App tải các file ở đây qua `raw.githubusercontent.com`:
 - Danh sách từ và level theo Oxford 3000/5000. Chỉ dùng từ, loại từ, phiên âm và level; nghĩa tiếng Việt và câu ví dụ được viết riêng cho app.
 - Ảnh lấy từ Wikimedia Commons, chỉ nhận giấy phép CC0, Public domain, CC BY, CC BY-SA.
   Tác giả và giấy phép của từng ảnh nằm ở trường `credit`, trang gốc ở trường `source` trong file JSON của gói.
-  Ảnh đã được cắt về 540x960.
+  Ảnh đã được cắt về 540x960; ảnh CC BY / CC BY-SA sau khi cắt vẫn giữ nguyên giấy phép gốc.
+  Một số ảnh nhạy cảm (khỏa thân, bạo lực, chính trị) đã bị gỡ, từ đó dùng nền màu.

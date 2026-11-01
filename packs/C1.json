@@ -1480,9 +1480,7 @@
    "example": "Financial backing.",
    "exampleVi": "Hỗ trợ tài chính.",
    "imageQuery": "support",
-   "image": "images/backing.jpg",
-   "credit": "Becker1999 from Grove City, OH · CC BY 2.0 · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Rally_in_support_of_Ukraine_in_Columbus,_Ohio,_United_States,_26_February_2022_(51906586684)_-_edited.jpg"
+   "image": ""
   },
   {
    "topic": "tech",
@@ -2922,9 +2920,7 @@
    "example": "A communist party.",
    "exampleVi": "Một đảng cộng sản.",
    "imageQuery": "red flag",
-   "image": "images/communist.jpg",
-   "credit": "ApophisJJ · CC BY-SA 4.0 · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Red_flag_with_yellow_diagonal_cross.png"
+   "image": ""
   },
   {
    "topic": "people",
@@ -3254,9 +3250,7 @@
    "example": "Condemn violence.",
    "exampleVi": "Lên án bạo lực.",
    "imageQuery": "protest",
-   "image": "images/condemn.jpg",
-   "credit": "Wilfredor · CC BY-SA 4.0 · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Protests_opposing_Venezuelan_Bolivarian_Revolution_in_Avenida_Paulista,_S%C3%A3o_Paulo,_Brazil.jpg"
+   "image": ""
   },
   {
    "topic": "general",
@@ -4542,9 +4536,7 @@
    "example": "Deemed unsafe.",
    "exampleVi": "Bị coi là không an toàn.",
    "imageQuery": "unsafe",
-   "image": "images/deem.jpg",
-   "credit": "Sergey Yaguzhinskiy (1862-1947). Issued by Department of Mat · Public domain · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:RussianAbortionPoster.jpg"
+   "image": ""
   },
   {
    "topic": "tech",
@@ -4702,9 +4694,7 @@
    "example": "Denounce racism.",
    "exampleVi": "Lên án nạn phân biệt chủng tộc.",
    "imageQuery": "protest",
-   "image": "images/denounce.jpg",
-   "credit": "Wilfredor · CC BY-SA 4.0 · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Protests_opposing_Venezuelan_Bolivarian_Revolution_in_Avenida_Paulista,_S%C3%A3o_Paulo,_Brazil.jpg"
+   "image": ""
   },
   {
    "topic": "nature",
@@ -4772,9 +4762,7 @@
    "example": "Deploy troops.",
    "exampleVi": "Triển khai quân đội.",
    "imageQuery": "troops",
-   "image": "images/deploy.jpg",
-   "credit": "Vyacheslav Argenberg · CC BY 4.0 · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Rostov-on-Don_2014_Victory_Day_Parade_Rehearsal,_Russian_Airborne_Troops_(VDV),_Russia.jpg"
+   "image": ""
   },
   {
    "topic": "tech",
@@ -4910,9 +4898,7 @@
    "example": "A destructive storm.",
    "exampleVi": "Một cơn bão tàn phá.",
    "imageQuery": "destruction",
-   "image": "images/destructive.jpg",
-   "credit": "WAFA in contract with a local company (APAimages)‏‏ · CC BY-SA 3.0 · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Damage_in_Gaza_Strip_during_the_October_2023_-_29.jpg"
+   "image": ""
   },
   {
    "topic": "society",
@@ -5844,9 +5830,7 @@
    "example": "The electoral system.",
    "exampleVi": "Hệ thống bầu cử.",
    "imageQuery": "ballot",
-   "image": "images/electoral.jpg",
-   "credit": "Vityavo · Public domain · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Ballot_paper_for_the_2024_Saint_Petersburg_gubernatorial_election.jpg"
+   "image": ""
   },
   {
    "topic": "general",
@@ -6550,9 +6534,7 @@
    "example": "Poor execution.",
    "exampleVi": "Thực hiện kém.",
    "imageQuery": "execution",
-   "image": "images/execution.jpg",
-   "credit": "CACorrections (California Department of Corrections and Reha · Public domain · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:SQ_Lethal_Injection_Room.jpg"
+   "image": ""
   },
   {
    "topic": "general",
@@ -6648,9 +6630,7 @@
    "example": "Explicit instructions.",
    "exampleVi": "Hướng dẫn rõ ràng.",
    "imageQuery": "instructions",
-   "image": "images/explicit.jpg",
-   "credit": "Pittigrilli · CC BY 4.0 · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Instruction_Manual_for_pistol_Walther_PP_and_PPK.jpg"
+   "image": ""
   },
   {
    "topic": "general",
@@ -6716,9 +6696,7 @@
    "example": "Political extremists.",
    "exampleVi": "Những kẻ cực đoan chính trị.",
    "imageQuery": "protest",
-   "image": "images/extremist.jpg",
-   "credit": "Wilfredor · CC BY-SA 4.0 · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Protests_opposing_Venezuelan_Bolivarian_Revolution_in_Avenida_Paulista,_S%C3%A3o_Paulo,_Brazil.jpg"
+   "image": ""
   },
   {
    "topic": "work",
@@ -7196,9 +7174,7 @@
    "example": "Fragile — handle with care.",
    "exampleVi": "Hàng dễ vỡ — cẩn thận.",
    "imageQuery": "fragile box",
-   "image": "images/fragile.jpg",
-   "credit": "HeatherMarieKosur · CC BY-SA 4.0 · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Fragile_Box,_House_from_a_Christmas_Story,_Cleveland,_Ohio,_March_26,_2016.jpg"
+   "image": ""
   },
   {
    "topic": "work",
@@ -7504,9 +7480,7 @@
    "example": "Visit the grave.",
    "exampleVi": "Thăm mộ.",
    "imageQuery": "grave",
-   "image": "images/grave.jpg",
-   "credit": "Mario Modesto Mata · CC BY-SA 4.0 · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Spanish_Civil_War_-_Mass_grave_-_Est%C3%A9par,_Burgos.jpg"
+   "image": ""
   },
   {
    "topic": "tech",
@@ -8364,9 +8338,7 @@
    "example": "Indigenous people.",
    "exampleVi": "Người bản địa.",
    "imageQuery": "indigenous",
-   "image": "images/indigenous.jpg",
-   "credit": "Jean-Baptiste Debret · Public domain · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Caboclo_by_Jean-Baptiste_Debret_1834.jpg"
+   "image": ""
   },
   {
    "topic": "general",
@@ -8556,9 +8528,7 @@
    "example": "Fight injustice.",
    "exampleVi": "Chống lại bất công.",
    "imageQuery": "protest",
-   "image": "images/injustice.jpg",
-   "credit": "Wilfredor · CC BY-SA 4.0 · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Protests_opposing_Venezuelan_Bolivarian_Revolution_in_Avenida_Paulista,_S%C3%A3o_Paulo,_Brazil.jpg"
+   "image": ""
   },
   {
    "topic": "society",
@@ -9196,9 +9166,7 @@
    "example": "A just society.",
    "exampleVi": "Một xã hội công bằng.",
    "imageQuery": "justice",
-   "image": "images/just.jpg",
-   "credit": "Jean Delville · Public domain · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Finished_study_for_%E2%80%9CLa_Justice_ancienne%E2%80%9D_or_%E2%80%9CLa_Justice_d%E2%80%99autrefois%E2%80%9D,_part_of_the_panel_series_La_Justice_%C3%A0_traverse_les_ages_(1911%E2%80%9314)_-_Jean_Delville.jpg"
+   "image": ""
   },
   {
    "topic": "general",
@@ -11926,9 +11894,7 @@
    "example": "Pledge support.",
    "exampleVi": "Cam kết ủng hộ.",
    "imageQuery": "promise",
-   "image": "images/pledge.jpg",
-   "credit": "Dedoshucos · CC BY-SA 4.0 · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Chinese-Promises-1-CR.jpg"
+   "image": ""
   },
   {
    "topic": "tech",
@@ -12248,9 +12214,7 @@
    "example": "Prescribe antibiotics.",
    "exampleVi": "Kê đơn thuốc kháng sinh.",
    "imageQuery": "prescription",
-   "image": "images/prescribe.jpg",
-   "credit": "Spaceboyjosh · CC BY-SA 4.0 · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:MedicalCannabisPrescription_NY.jpg"
+   "image": ""
   },
   {
    "topic": "health",
@@ -12262,9 +12226,7 @@
    "example": "A doctor's prescription.",
    "exampleVi": "Đơn thuốc của bác sĩ.",
    "imageQuery": "prescription",
-   "image": "images/prescription.jpg",
-   "credit": "Spaceboyjosh · CC BY-SA 4.0 · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:MedicalCannabisPrescription_NY.jpg"
+   "image": ""
   },
   {
    "topic": "general",
@@ -13162,9 +13124,7 @@
    "example": "Rebel forces.",
    "exampleVi": "Lực lượng nổi dậy.",
    "imageQuery": "rebel",
-   "image": "images/rebel.jpg",
-   "credit": "Tabercil · CC BY-SA 3.0 · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Tanea_Brooks_at_Rebelution.jpg"
+   "image": ""
   },
   {
    "topic": "society",
@@ -13636,9 +13596,7 @@
    "example": "The Socialist Republic of Vietnam.",
    "exampleVi": "Nước Cộng hòa Xã hội Chủ nghĩa Việt Nam.",
    "imageQuery": "flag",
-   "image": "images/republic.jpg",
-   "credit": "Dr. Zachi Evenor · CC BY 2.0 · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Flag-of-Israel-4-Zachi-Evenor.jpg"
+   "image": ""
   },
   {
    "topic": "people",
@@ -14162,9 +14120,7 @@
    "example": "Economic sanctions.",
    "exampleVi": "Trừng phạt kinh tế.",
    "imageQuery": "sanction",
-   "image": "images/sanction.jpg",
-   "credit": "Takver · CC BY-SA 2.0 · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Israel_-_Boycott,_divest,_sanction.jpg"
+   "image": ""
   },
   {
    "topic": "general",
@@ -14576,9 +14532,7 @@
    "example": "She shrugged.",
    "exampleVi": "Cô ấy nhún vai.",
    "imageQuery": "shrug",
-   "image": "images/shrug.jpg",
-   "credit": "Tobias ToMar Maier · CC BY-SA 3.0 · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Kunert_Beauty_7_tights_in_the_colour_candy_and_red_lace_shrug_used_as_seductive_pieces_of_lingerie_on_a_black_leather_couch_-_landscape.jpg"
+   "image": ""
   },
   {
    "topic": "people",
@@ -14820,9 +14774,7 @@
    "example": "A socialist country.",
    "exampleVi": "Một nước xã hội chủ nghĩa.",
    "imageQuery": "flag",
-   "image": "images/socialist.jpg",
-   "credit": "Dr. Zachi Evenor · CC BY 2.0 · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Flag-of-Israel-4-Zachi-Evenor.jpg"
+   "image": ""
   },
   {
    "topic": "general",
@@ -14904,9 +14856,7 @@
    "example": "Sound advice.",
    "exampleVi": "Lời khuyên đúng đắn.",
    "imageQuery": "advice",
-   "image": "images/sound.jpg",
-   "credit": "Sobsz · CC0 · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:%22Dump_your_porn_addicted_boyfriend%22_flyer_in_M%C3%A1laga.jpg"
+   "image": ""
   },
   {
    "topic": "society",
@@ -14918,9 +14868,7 @@
    "example": "National sovereignty.",
    "exampleVi": "Chủ quyền quốc gia.",
    "imageQuery": "flag",
-   "image": "images/sovereignty.jpg",
-   "credit": "Dr. Zachi Evenor · CC BY 2.0 · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Flag-of-Israel-4-Zachi-Evenor.jpg"
+   "image": ""
   },
   {
    "topic": "tech",
@@ -15930,9 +15878,7 @@
    "example": "Surrender to the police.",
    "exampleVi": "Đầu hàng cảnh sát.",
    "imageQuery": "white flag",
-   "image": "images/surrender.jpg",
-   "credit": "Anna Kucherova · CC BY-SA 4.0 · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Anti-war_flag_of_Russia_and_the_state_flag_of_Ukraine.jpg"
+   "image": ""
   },
   {
    "topic": "society",
@@ -16054,9 +16000,7 @@
    "example": "Down syndrome.",
    "exampleVi": "Hội chứng Down.",
    "imageQuery": "medical",
-   "image": "images/syndrome.jpg",
-   "credit": "Unknown authorUnknown author · Public domain · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Surgeon_operating,_Fitzsimons_Army_Medical_Center,_circa_1990.JPEG"
+   "image": ""
   },
   {
    "topic": "tech",
@@ -16636,9 +16580,7 @@
    "example": "Toxic waste.",
    "exampleVi": "Chất thải độc hại.",
    "imageQuery": "toxic",
-   "image": "images/toxic.jpg",
-   "credit": "ChickSR · CC BY-SA 4.0 · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Stop_toxic_masculinity,_stop_war.jpg"
+   "image": ""
   },
   {
    "topic": "general",
@@ -16798,9 +16740,7 @@
    "example": "Childhood trauma.",
    "exampleVi": "Sang chấn thời thơ ấu.",
    "imageQuery": "trauma",
-   "image": "images/trauma.jpg",
-   "credit": "Ernest Brooks · Public domain · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:British_wounded_Bernafay_Wood_19_July_1916.jpg"
+   "image": ""
   },
   {
    "topic": "society",
@@ -17434,9 +17374,7 @@
    "example": "Smoking is my only vice.",
    "exampleVi": "Hút thuốc là thói xấu duy nhất của tôi.",
    "imageQuery": "cigarette",
-   "image": "images/vice.jpg",
-   "credit": "High Contrast · Public domain · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Cigarette_smuggling_with_a_book.JPG"
+   "image": ""
   },
   {
    "topic": "general",
@@ -17712,9 +17650,7 @@
    "example": "No reason whatever.",
    "exampleVi": "Không có lý do nào cả.",
    "imageQuery": "shrug",
-   "image": "images/whatever.jpg",
-   "credit": "Tobias ToMar Maier · CC BY-SA 3.0 · Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Kunert_Beauty_7_tights_in_the_colour_candy_and_red_lace_shrug_used_as_seductive_pieces_of_lingerie_on_a_black_leather_couch_-_landscape.jpg"
+   "image": ""
   },
   {
    "topic": "general",
@@ -17923,7 +17859,7 @@
    "exampleVi": "Một chuyến đi đáng giá.",
    "imageQuery": "travel",
    "image": "images/worthwhile.jpg",
-   "credit": "Jorge Royan (talk · contribs) · CC BY-SA 3.0 · Wikimedia Commons",
+   "credit": "Jorge Royan · CC BY-SA 3.0 · Wikimedia Commons",
    "source": "https://commons.wikimedia.org/wiki/File:Paris_-_Vintage_travel_gear_seller_at_the_marche_Dauphine_-_5212.jpg"
   },
   {
