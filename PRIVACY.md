@@ -1,6 +1,6 @@
 # Chính sách quyền riêng tư — "5 từ mỗi ngày"
 
-Cập nhật: 30/10/2026
+Cập nhật: 02/11/2026
 
 Ứng dụng "5 từ mỗi ngày" (com.binhnhung.english_app) giúp học từ vựng tiếng Anh.
 
@@ -12,9 +12,9 @@ Cập nhật: 30/10/2026
 
 ## Kết nối mạng
 
-- Ứng dụng chỉ dùng mạng để tải gói từ vựng và ảnh minh họa từ `raw.githubusercontent.com` (GitHub).
+- Ứng dụng chỉ dùng mạng để tải gói từ vựng, ảnh minh họa và file phát âm từ `raw.githubusercontent.com` (GitHub).
 - Như mọi máy chủ web, GitHub có thể ghi nhận địa chỉ IP của yêu cầu tải; xem chính sách của GitHub: https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement
-- Phát âm dùng bộ đọc văn bản (TTS) có sẵn trên máy.
+- Phát âm phát từ file ghi âm đã tải (Wikimedia Commons); từ nào không có thì dùng bộ đọc văn bản (TTS) có sẵn trên máy.
 
 ## Trẻ em
 
@@ -29,5 +29,5 @@ Mọi câu hỏi xin gửi qua email liên hệ của nhà phát triển trên t
 # Privacy Policy — "5 từ mỗi ngày"
 
 The app collects no personal data. Your name, chosen topic, level and learning progress are stored only on your device.
-There are no accounts, ads, analytics or trackers. The app connects to the internet only to download vocabulary packs
-and images from raw.githubusercontent.com (GitHub). Contact: see the developer email on the app's Google Play page.
+There are no accounts, ads, analytics or trackers. The app connects to the internet only to download vocabulary packs,
+images and pronunciation recordings from raw.githubusercontent.com (GitHub). Contact: see the developer email on the app's Google Play page.
